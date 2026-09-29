@@ -12,7 +12,7 @@ I was inspired to write Auto-Aircrack.sh by my interest in cybersecurity and aut
 
 ## How to Use Auto-Aircrack.sh
 
-1) Download Auto-Aircrack.sh: ```wget https://github.com/initial-commiter/Automated-Aircrack-ng/blob/main/auto-aircrack.sh```.
+1) Download Auto-Aircrack.sh: ```wget https://raw.githubusercontent.com/initial-commiter/Automated-Aircrack-ng/refs/heads/main/auto-aircrack.sh```.
 2) Make Auto-Aircrack.sh executable: ```chmod +x auto-aircrack.sh```.
 3) Plug in a WiFi adapter that supports monitoring mode and packet injection such as the ALFA Network awus036axml WiFi adapter.
 4) Run the script: ```sudo ./auto-aircrack.sh```.
